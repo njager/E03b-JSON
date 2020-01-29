@@ -1,4 +1,7 @@
 # E03b-JSON
+This is a zork.json file edited to include the exits, descriptions, and items requested for the assignment. IN particular, the 3rd request involved adding a new exit NORTH, however, in the location there was already an exit for NORTH so the original exit was deleted.
+
+
 This exercise will give you the opportunity to edit an existing JSON file (in the game-description format we are using for MSCH-C220). Fork and Clone this repository and then make the following edits to zork.json:
 
  - Change the exit in FORE3 from UP to DOWN
